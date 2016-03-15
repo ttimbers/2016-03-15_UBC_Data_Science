@@ -9,7 +9,8 @@ Github: [github.com/ttimbers](github.com/ttimbers)
 ## List of Referees:
 
 **Dr. Michel R. Leroux**
-<br>Professor, Department of Molecular Biology and Biochemistry  
+<br>Professor
+<br>Department of Molecular Biology and Biochemistry  
 <br>Simon Fraser University
 <br>8888 University Drive
 <br>Burnaby, BC, Canada V5A 1S6
@@ -18,7 +19,8 @@ Github: [github.com/ttimbers](github.com/ttimbers)
 <br>http://www.sfu.ca/~leroux/
 
 **Dr. Jinko Graham**
-<br>Professor, Department of Statistics and Actuarial Science  
+<br>Professor 
+<br>Department of Statistics and Actuarial Science  
 <br>Simon Fraser University
 <br>8888 University Drive
 <br>Burnaby, BC, Canada V5A 1S6
