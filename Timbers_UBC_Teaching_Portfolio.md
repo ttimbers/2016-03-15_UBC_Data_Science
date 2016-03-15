@@ -8,18 +8,14 @@ Github: [github.com/ttimbers](github.com/ttimbers)
    
 ## Teaching Portfolio
 
-[1. Teaching Philosophy]
-
-(
-
-### 1. Teaching Philosophy
+1. [Teaching Philosophy](#1.-teaching-pilosophy
 
 )
-2. [Evidence of Teaching Effectiveness](### 2. Evidence of Teaching Effectiveness)
+2. Evidence of Teaching Effectiveness
 
 
 
-### 1. Teaching Philosophy
+###1. Teaching Philosophy
 
 
 I have thoroughly enjoyed my involvement in teaching throughout my undergraduate, graduate and postdoctoral studies and I am eager to expand my role in the educational process. I began working as a teaching assistant in the fourth year of my undergraduate degree, and continued to do so throughout my graduate studies at the University of British Columbia (UBC) as well as at Marine Biological Laboratory at Woods Hole, MA, USA. These experiences culminated in a unique opportunity to independently instruct a third year Animal Behavior class of 100 students at UBC while I was a Ph.D. Candidate. Recently I have expanded my teaching experience as a volunteer Software Carpentry instructor (teaching basic computer programming skills to scientists at hands-on workshops), teaching bioinformatics to graduate students at Titus Brown's Next Generation Sequencing summer course, and developing and teaching a Computation in Science course at Quest University.
@@ -46,8 +42,8 @@ I also encourage students to work together to foster peer-learning as much as po
 
 ### 2. Evidence of Teaching Effectiveness
 
-a. [Letter of teaching effectiveness](#### a. Letter of teaching effectiveness) from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia. 
-b. [Instructor Evaluations](#### b. Instructor Evaluations) from [PHY3009 Computation in the Physcial Sciences](http://phy3009.github.io/PHY3009-2015/) at Quest University 
+a. Letter of teaching effectiveness from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia. 
+b. Instructor Evaluations from [PHY3009 Computation in the Physcial Sciences](http://phy3009.github.io/PHY3009-2015/) at Quest University 
 
 #### a. Letter of teaching effectiveness
 
