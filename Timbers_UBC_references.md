@@ -10,7 +10,7 @@ Github: [github.com/ttimbers](github.com/ttimbers)
 
 **Dr. Michel R. Leroux**
 <br>Professor
-<br>Department of Molecular Biology and Biochemistry  
+<br>Department of Molecular Biology and Biochemistry
 <br>Simon Fraser University
 <br>8888 University Drive
 <br>Burnaby, BC, Canada V5A 1S6
@@ -20,7 +20,7 @@ Github: [github.com/ttimbers](github.com/ttimbers)
 
 **Dr. Jinko Graham**
 <br>Professor 
-<br>Department of Statistics and Actuarial Science  
+<br>Department of Statistics and Actuarial Science
 <br>Simon Fraser University
 <br>8888 University Drive
 <br>Burnaby, BC, Canada V5A 1S6
