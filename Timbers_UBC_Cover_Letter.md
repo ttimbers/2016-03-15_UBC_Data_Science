@@ -49,8 +49,10 @@ shorter 1-3 hour workshops, and week-long field/summer courses.
 
 Thank-you for considering me for the position of a Postdoctoral Teaching & Learning Fellow, 
 associated with a proposed Master of Data Science program at the University of 
-British Columbia. In addition to this letter, please find my curriculum vitae, list of 
-references and teaching portfolio attached to this application. 
+British Columbia. In addition to this letter, please find my [curriculum vitae](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_CV.md), list of 
+references and teaching portfolio (https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_Teaching_Portfolio.md) attached to this application. In support of my application, I would
+also like to present my most recent research project, which is available as a preprint [here](http://biorxiv.org/content/early/2015/10/22/027540), and all associated code is 
+available in [this Github repository](https://github.com/ttimbers/Million-Mutation-Project-dye-filling-SKAT).
 
 Sincerely,
 
