@@ -1,0 +1,57 @@
+![alt tag](img/header.png)
+
+<center>Tiffany A. Timbers, Ph.D.</br></center>
+<center>Banting Postdoctoral Fellow</br></center>
+<center>Simon Fraser University,</br></center><center>8888 University Drive, Burnaby, </br>BC, Canada V5A 1S6 </center>
+
+<center>tel. 604-803-4962 </br>
+email. tiffany.timbers@gmail.com </center>
+
+Tuesday, March 15, 2016
+
+Dear Data Science Teaching Fellow Search Committee,
+
+I am writing to apply for the position of a Postdoctoral Teaching & Learning Fellow, 
+associated with a proposed Master of Data Science (MDS) program at the University of 
+British Columbia (UBC). This opportunity was brought to my attention by Dr. Jenny Bryan, 
+Associate Professor of Statistics and Academic Director of this proposed MDS program at 
+UCB. Currently, I am a Banting Postdoctoral Fellow at Simon Fraser University (SFU). My 
+research involves complex visualization and statistical analyses of large genomic and 
+multi-dimensional phenotype datasets with the aim of uncovering new genes important for 
+sensation. Outside of the research lab I am actively involved in teaching and developing 
+data science curriculum through my affiliations with SFU, Quest University, Software 
+Carpentry and the Mozilla Science lab.
+
+The position of a Postdoctoral Teaching & Learning Fellow with the proposed MDS program 
+really excites me because Data Science is a critically important, emerging 
+interdisciplinary field, yet few structured educational programs support training for it.
+I want to be involved in the breaking ground of this program to help develop a holistic 
+data science graduate curriculum at UBC. That this program is a collaboration between the 
+Departments of Computer Science and Statistics indicates that there will be excellent 
+support for the development and implementation of this program. I am impressed with the 
+pedagogical approaches outlined for the proposed program, in particular the planned use of 
+intensive courses and a final capstone project. I have experience teaching computational 
+materials at Quest University in an intensive format and I find it allows an unprecedented
+depth of study into the subject matter. I am also excited about this 
+position because of the possibility to contribute to other Data Science research projects
+undertaken by the Statistical Consulting and Research Laboratory.
+
+Of the courses outlined to be offered for the MDS program, I would love to focus on 
+developing curriculum and teaching in the areas of programming and data science workflows,
+data wrangling, data visualization, collaborative software development as well as web and 
+cloud computing. My hands-on experience with R, Python, SQL and version control in my own
+research, as well as my experience teaching and developing curriculum on these topics 
+provide me with the necessary skills and tools to hit the ground running and quickly 
+develop curriculum on this topics.  I have over 11 years of teaching experience spanning 
+many topics (computation in science, bioinformatics, biology, psychology) across many 
+formats. I have taught two upper level undergraduate courses, two-day intensive workshops,
+shorter 1-3 hour workshops, and week-long field/summer courses. 
+
+Thank-you for considering me for the position of a Postdoctoral Teaching & Learning Fellow, 
+associated with a proposed Master of Data Science program at the University of 
+British Columbia. In addition to this letter, please find my curriculum vitae, list of 
+references and teaching portfolio attached to this application. 
+
+Sincerely,
+
+Tiffany A. Timbers, Ph.D.
