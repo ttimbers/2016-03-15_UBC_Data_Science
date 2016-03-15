@@ -51,8 +51,16 @@ Courses that I would like to teach in the Department of Computer Science at UBC 
 
 ### 2. Evidence of Teaching Effectiveness
 
-Letter of teaching effectiveness from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia.
+	a. Letter of teaching effectiveness from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia.
+	b. Instructor Evaluations from [PHY3009 Computation in the Physcial Sciences](http://phy3009.github.io/PHY3009-2015/) at Quest University
+
+#### a. Letter of teaching effectiveness from Dr. Kiran Soma
 
 ![alt tag](page1.png)
 
 ![alt tag](page2.png)
+
+#### b. Instructor Evaluations from PHY3009 Computation in the Physcial Sciences
+
+![alt tag](Eval_page1.png)
+![alt tag](Eval_page2.png)
