@@ -40,15 +40,6 @@ Innovative teaching practices that I use in the classroom include live-coding  w
 
 I also encourage students to work together to foster peer-learning as much as possible. Ways that I faciliatate this are through group assignments, and small group code review. It is amazing how much students learn about reusability, readability and documentation when they have to read and run another person's code.
 
-### Courses of interest
-
-Courses that I would like to teach in the Department of Computer Science at UBC include:
-
-* CPSC 101 - Connecting with Computer Science
-* CPSC 110 - Computation, Programs and Programming
-* CPSC 189 - Systematic Program Design in Python
-* CPSC 301 - Computing in the Life Sciences
-
 ### 2. Evidence of Teaching Effectiveness
 
 	a. Letter of teaching effectiveness from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia.
@@ -56,11 +47,11 @@ Courses that I would like to teach in the Department of Computer Science at UBC 
 
 #### a. Letter of teaching effectiveness from Dr. Kiran Soma
 
-![alt tag](page1.png)
+![alt tag](img/page1.png)
 
-![alt tag](page2.png)
+![alt tag](img/page2.png)
 
 #### b. Instructor Evaluations from PHY3009 Computation in the Physcial Sciences
 
-![alt tag](Eval_page1.png)
-![alt tag](Eval_page2.png)
+![alt tag](img/Eval_page1.png)
+![alt tag](img/Eval_page2.png)
