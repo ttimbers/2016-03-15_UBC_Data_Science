@@ -58,14 +58,16 @@ Statistics and Actuarial Science at SFU. Finally, my self guided learning has in
 ["The Handbook of Biological Statistics"](http://www.biostathandbook.com/) and ["An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).
 Thus, while I am not a statistician in training, I utilize many different statistical tools
 and analyses for my work and discuss these tools and analyses with statisticians and 
-biologists on a regular basis. 
+biologists on a regular basis. In support of my skills and knowledge of applied statistics, 
+I would like to present my most recent research project, where I performed genome-wide 
+rare-variant association analysis using SKAT. This research is available for you to view as a preprint [here](http://biorxiv.org/content/early/2015/10/22/027540), and all associated code is 
+available in [this Github repository](https://github.com/ttimbers/Million-Mutation-Project-dye-filling-SKAT). 
+For this project I planned and carried out at statistical and computational analysis. 
 
 Thank-you for considering me for the position of a Postdoctoral Teaching & Learning Fellow, 
 associated with a proposed Master of Data Science program at the University of 
 British Columbia. In addition to this letter, please find my [curriculum vitae](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_CV.md), [list of 
-references](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_references.md) and [teaching portfolio](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_Teaching_Portfolio.md) attached to this application. In support of my application, I would
-also like to present my most recent research project, which is available as a preprint [here](http://biorxiv.org/content/early/2015/10/22/027540), and all associated code is 
-available in [this Github repository](https://github.com/ttimbers/Million-Mutation-Project-dye-filling-SKAT).
+references](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_references.md) and [teaching portfolio](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_Teaching_Portfolio.md) attached to this application. 
 
 Sincerely,
 
