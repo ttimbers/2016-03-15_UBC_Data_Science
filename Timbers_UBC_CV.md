@@ -1,19 +1,31 @@
 ##Tiffany A. Timbers, Ph.D.
 Simon Fraser University, 8888 University Drive,Burnaby, BC, Canada V5A 1S6 </br>
 
-tel. 604-803-4962 </br>email. [tiffany.timbers@gmail.com](mailto:tiffany.timbers@gmail.com)</br>website: [tiffanytimbers.com](tiffanytimbers.com)</br>Github: [github.com/ttimbers](github.com/ttimbers)   ##Curriculum vitae
+tel. 604-803-4962 </br>
+email. [tiffany.timbers@gmail.com](mailto:tiffany.timbers@gmail.com)</br>
+website: [tiffanytimbers.com](tiffanytimbers.com)</br>
+Github: [github.com/ttimbers](github.com/ttimbers)
+   
+##Curriculum vitae
 
-###EDUCATION: * **Banting Postdoctoral Fellow**, 2012 – Current</br>
+###EDUCATION: 
+* **Banting Postdoctoral Fellow**, 2012 – Current</br>
 Simon Fraser University, Burnaby, BC</br>
 *￼￼￼Integrating genomic and phenomic data to identify novel genes critical for cilia and sensory neuron function*</br>
 Supervisor: Michel R. Leroux, Ph.D.
 
 * **Ph.D. in Neuroscience**, 2005 – 2012  </br>
-University of British Columbia, Vancouver, BC</br>*The roles of CREB, CaMK1 and ageing in short- and long-term tap habituation in C. elegans*</br>
-Ph.D. Supervisor: Catharine H. Rankin, Ph.D.* **B.Sc. in Biology, with Honours**, 2001-2005</br>
+University of British Columbia, Vancouver, BC</br>
+*The roles of CREB, CaMK1 and ageing in short- and long-term tap habituation in C. elegans*</br>
+Ph.D. Supervisor: Catharine H. Rankin, Ph.D.
+
+* **B.Sc. in Biology, with Honours**, 2001-2005</br>
 Carleton University, Ottawa, ON </br>
 *Vibration-mediated spacing in gregarious caterpillars* </br>
-Honors Thesis Supervisor: Jayne E. Yack, Ph.D.### ADDITIONAL COURSES:* Instructor Training, Software Carpentry, Sept. – Dec. 2014
+Honors Thesis Supervisor: Jayne E. Yack, Ph.D.
+
+### ADDITIONAL COURSES:
+* Instructor Training, Software Carpentry, Sept. – Dec. 2014
 * Certificate Course in University Teaching, Simon Fraser University, Sept. – Dec. 2014
 * Instructional Skills Workshop, Simon Fraser University, Aug. 2014
 * High-Dimensional Omics Data, Summer Institute of Statistical Genetics, Univerity of Washington, Jul. 2014
@@ -25,32 +37,45 @@ Honors Thesis Supervisor: Jayne E. Yack, Ph.D.### ADDITIONAL COURSES:* Instru
 1. Instructor, Quest University, Squamish, BC </br> 
 	Oct. 27 – Nov. 19, 2015 </br>
 
-	PHY2009 – Computation in the Physical Sciences (for BA&Sc - 13 students) Critical practices to carry out a computational project from beginning to end, including code modularization, readability and re-use, as well as version control to organize their coding projects and collaborate effectively. Ultimately, students will use these tools to analyze their own datasets in a term project. For preparation, students will work through a sample dataset from a radioactive isotope decay experiment together as a class. Skills will be taught via a combination of live- coding sessions and work-along sessions. Think of it as a guided three hour hackathon each day of the block.2. Instructor, Michigan State University, Kellogg Biological Station </br>
+	PHY2009 – Computation in the Physical Sciences (for BA&Sc - 13 students) Critical practices to carry out a computational project from beginning to end, including code modularization, readability and re-use, as well as version control to organize their coding projects and collaborate effectively. Ultimately, students will use these tools to analyze their own datasets in a term project. For preparation, students will work through a sample dataset from a radioactive isotope decay experiment together as a class. Skills will be taught via a combination of live- coding sessions and work-along sessions. Think of it as a guided three hour hackathon each day of the block.
+
+2. Instructor, Michigan State University, Kellogg Biological Station </br>
 Augusta, MI, Aug. 24 - 28, 2015 </br>
 	
 	Advanced Analysis of Next-Generation Sequencing Data – Intensive one week summer course will introduce attendees with a strong biology background and an intermediate computational background to doing reproducible research using Docker, AWS Cloud Computing, version control with Git/Github and RMarkdown, as well as how to perform genome assembly, differential expression analysis, genome-wide association analysis, and RNAseq pathway analysis.
 	
 3. Mentorship Sub-committee member, Software Carpentry </br> http://software-carpentry.org </br> Mar. 2015 – Present 
 
-	The Software Carpentry Foundation is a non-profit organization whose instructors teach scientists and researchers basic software skills.</br>	* Held post-workshop debriefing for instructors </br>	* Developed micro-lesson training step in the Software Carpentry Instructor Certification Program </br>
+	The Software Carpentry Foundation is a non-profit organization whose instructors teach scientists and researchers basic software skills.</br>
+	* Held post-workshop debriefing for instructors </br>
+	* Developed micro-lesson training step in the Software Carpentry Instructor Certification Program </br>
 	* Organized 1st ever [Software + Data Carpentry Instructor & Helper Retreat](http://swcarpentry.github.io/instructor-retreat-2015/)
 
-4. Instructor, Software Carpentry </br> http://software-carpentry.org </br> Jan. 2015 – Present 	* Taught 7 interactive 2-day workshops on automating tasks using the Unix shell, structured programming in Python or R, version control using Git and relational databases (SQL).	* Created new challenge questions to probe student learning during the workshop	* Implemented a new pedagogical approach to teaching version control and collaboration
+4. Instructor, Software Carpentry </br> http://software-carpentry.org </br> Jan. 2015 – Present 
+	* Taught 8 interactive 2-day workshops on automating tasks using the Unix shell, structured programming in Python or R, version control using Git and relational databases (SQL).
+	* Created new challenge questions to probe student learning during the workshop
+	* Implemented a new pedagogical approach to teaching version control and collaboration
 
 5. Instructor, University of British Columbia, Vancouver, BC </br> Jan. – Apr. 2011 </br>
 
-	PSYC 306 – Principles of Animal Behavior (for B.Sc. Psychology Majors - approx. 100 students). Theory of evolution; behavioral genetics; social systems as ecological adaptation; mating and parental strategies; instinct and learning; evolution of human behavior. 6. Teaching Assistant, University of British Columbia, Vancouver, BC </br> 2006 – 2011
+	PSYC 306 – Principles of Animal Behavior (for B.Sc. Psychology Majors - approx. 100 students). Theory of evolution; behavioral genetics; social systems as ecological adaptation; mating and parental strategies; instinct and learning; evolution of human behavior. 
+6. Teaching Assistant, University of British Columbia, Vancouver, BC </br> 2006 – 2011
 
 	* PSYC 306 – Principles of Animal Behavior
 	* PSYC 363 – Principles of Animal Learning
-	* PSYC 368 – Perceptual Processing 7. Teaching Assistant, Marine Biological Laboratory, Woods Hole, MA </br> Jul. 2008
+	* PSYC 368 – Perceptual Processing 
+7. Teaching Assistant, Marine Biological Laboratory, Woods Hole, MA </br> Jul. 2008
 
-	Neural Systems and Behavior (graduate level course - approx. 25 students). I was the teaching assistant for 2 weeks of an intensive 8-week laboratory and lecture course focusing on the neural basis of behavior, including the cellular and synaptic levels, sensory and motor systems, neurogenetics, and the analysis of complex systems.Intended for graduate students, postdoctoral students, and independent investigators who wish to gain a broad perspective on neural systems and how they produce behavior.
+	Neural Systems and Behavior (graduate level course - approx. 25 students). I was the teaching assistant for 2 weeks of an intensive 8-week laboratory and lecture course focusing on the neural basis of behavior, including the cellular and synaptic levels, sensory and motor systems, neurogenetics, and the analysis of complex systems.
+Intended for graduate students, postdoctoral students, and independent investigators who wish to gain a broad perspective on neural systems and how they produce behavior.
 
 8. Teaching Assistant, Carleton University, Ottawa, ON </br> 
 Jan. – Apr. 2005
 
-	* BIOL 3802 – Animal Behavior ### SUPERVISORY EXPERIENCE:During my doctoral and postdoctoral training I have supervised 16 undergraduate student projects that ranged from short (2-3 months) volunteer projects to year-long undergraduate theses and co-op projects. I have been responsible for planning projects, training students, holding regular progress report meetings with students, and grading. I have learned to alter my supervisory style to best suit the learning style of each student, to give positive but constructive feedback, and to design projects that are appropriate for the student’s skill level and project timeline. Many of the students I supervised have been successful at obtaining further opportunities to accelerate their careers following their work with me. The first student I supervised, Arya Mehran, is now a Ph.D. candidate at UBC studying molecular signaling. A co-op student, Jing (Morgana) Xu, is now a Master’s student at the BC Cancer Agency. Mavis Chan is now engaged in a Medical Laboratory Science Advanced Diploma Program at the Michener Institute. Kirsten Lee is now attending Dentistry School at Western University. Joshua Lai is now in Medical School at UBC where he hopes to complete an M.D.-Ph.D. 
+	* BIOL 3802 – Animal Behavior 
+
+### SUPERVISORY EXPERIENCE:
+During my doctoral and postdoctoral training I have supervised 16 undergraduate student projects that ranged from short (2-3 months) volunteer projects to year-long undergraduate theses and co-op projects. I have been responsible for planning projects, training students, holding regular progress report meetings with students, and grading. I have learned to alter my supervisory style to best suit the learning style of each student, to give positive but constructive feedback, and to design projects that are appropriate for the student’s skill level and project timeline. Many of the students I supervised have been successful at obtaining further opportunities to accelerate their careers following their work with me. The first student I supervised, Arya Mehran, is now a Ph.D. candidate at UBC studying molecular signaling. A co-op student, Jing (Morgana) Xu, is now a Master’s student at the BC Cancer Agency. Mavis Chan is now engaged in a Medical Laboratory Science Advanced Diploma Program at the Michener Institute. Kirsten Lee is now attending Dentistry School at Western University. Joshua Lai is now in Medical School at UBC where he hopes to complete an M.D.-Ph.D. 
 
 ###HONOURS and AWARDS:
 1. Banting Postdoctoral Fellowship, CIHR, $140000 (2015 – 2017)
@@ -299,7 +324,9 @@ Behavioral Neuroscience Society’s 15th Annual Meeting.* (Whistler, BC,
 Canada) Poster
 
 ### VOLUNTEER EXPERIENCE:
-* Organizer: SFU Scientific Programming Study Group, 2015* Instructor and Mentorship Sub-committee: Software Carpentry, 2014 - 2015* Executive Member: Simon Fraser University Postdoctoral Fellow Association, 2014 - 2015
+* Organizer: SFU Scientific Programming Study Group, 2015
+* Instructor and Mentorship Sub-committee: Software Carpentry, 2014 - 2015
+* Executive Member: Simon Fraser University Postdoctoral Fellow Association, 2014 - 2015
 * Organizer: Canadian Association of Neuroscience Satellite Symposium, 2014 - 2015
 * Organizer: UBC Graduate Program in Neuroscience Student Summer Seminar Series, 2011
 * Vice-Chair: VanWoRM Organizing Committee, 2008 - 2010
