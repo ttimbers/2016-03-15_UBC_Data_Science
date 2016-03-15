@@ -54,7 +54,7 @@ and "Pathway & Network Analysis for Omics" at the Summer Institute for Statistic
 at the University of Washington, as well as Trevor Hastie's and Rob Tibshirani's online 
 course titled "Introduction to Statistical Learning". I also regularly attend and present at the 
 [Statistical Genetics Working Group](http://stat.sfu.ca/statgen.html) in the Department of 
-Statistics and Actuarial Science at SFU. Finally, my self guided learning has included reading much referring to and reading of
+Statistics and Actuarial Science at SFU. Finally, my self guided learning has included reading
 ["The Handbook of Biological Statistics"](http://www.biostathandbook.com/) and ["An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).
 Thus, while I am not a statistician in training, I utilize many different statistical tools
 and analyses for my work and discuss these tools and analyses with statisticians and 
