@@ -10,8 +10,12 @@ Github: [github.com/ttimbers](github.com/ttimbers)
 
 1. Teaching Philosophy
 
+(
 
-2. Evidence of Teaching Effectiveness
+### 1. Teaching Philosophy
+
+)
+2. Evidence of Teaching Effectiveness (### 2. Evidence of Teaching Effectiveness)
 
 
 
@@ -42,16 +46,16 @@ I also encourage students to work together to foster peer-learning as much as po
 
 ### 2. Evidence of Teaching Effectiveness
 
-	a. Letter of teaching effectiveness from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia.
-	b. Instructor Evaluations from [PHY3009 Computation in the Physcial Sciences](http://phy3009.github.io/PHY3009-2015/) at Quest University
+a. Letter of teaching effectiveness from Dr. Kiran Soma, Professor, Department of Psychology, University of British Columbia. (#### a. Letter of teaching effectiveness)
+b. Instructor Evaluations from [PHY3009 Computation in the Physcial Sciences](http://phy3009.github.io/PHY3009-2015/) at Quest University (#### b. Instructor Evaluations)
 
-#### a. Letter of teaching effectiveness from Dr. Kiran Soma
+#### a. Letter of teaching effectiveness
 
 ![alt tag](img/page1.png)
 
 ![alt tag](img/page2.png)
 
-#### b. Instructor Evaluations from PHY3009 Computation in the Physcial Sciences
+#### b. Instructor Evaluations
 
 ![alt tag](img/Eval_page1.png)
 ![alt tag](img/Eval_page2.png)
