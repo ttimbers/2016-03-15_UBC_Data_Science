@@ -8,7 +8,7 @@ Github: [github.com/ttimbers](github.com/ttimbers)
    
 ## Teaching Portfolio
 
-1. [Teaching Philosophy]
+[1. Teaching Philosophy]
 
 (
 
