@@ -54,7 +54,7 @@ and "Pathway & Network Analysis for Omics" at the Summer Institute for Statistic
 at the University of Washington, as well as Trevor Hastie's and Rob Tibshirani's online 
 course titled "Introduction to Statistical Learning". I also regularly attend and present at the 
 [Statistical Genetics Working Group](http://stat.sfu.ca/statgen.html) in the Department of 
-Statistics and Actuarial Science at SFU. Finally, my self guided learning has included reading
+Statistics and Actuarial Science at SFU. My self guided learning has included reading
 ["The Handbook of Biological Statistics"](http://www.biostathandbook.com/) and ["An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).
 Thus, while I am not a statistician in training, I utilize many different statistical tools
 and analyses for my work and discuss these tools and analyses with statisticians and 
@@ -62,7 +62,10 @@ biologists on a regular basis. In support of my skills and knowledge of applied 
 I would like to present my most recent research project, where I performed genome-wide 
 rare-variant association analysis using SKAT. This research is available for you to view as a preprint [here](http://biorxiv.org/content/early/2015/10/22/027540), and all associated code is 
 available in [this Github repository](https://github.com/ttimbers/Million-Mutation-Project-dye-filling-SKAT). 
-For this project I planned and carried out at statistical and computational analysis. 
+For this project I planned and carried out at statistical and computational analysis. Lastly,
+to demonstrate that I am capable of developing curriculum in the area of statistics, I would 
+like to share [this example lesson](https://github.com/ttimbers/Sampling_Distributions_Lesson) plan that I had previously developed for teaching sampling 
+distributions to undergraduates.
 
 Thank-you for considering me for the position of a Postdoctoral Teaching & Learning Fellow, 
 associated with a proposed Master of Data Science program at the University of 
