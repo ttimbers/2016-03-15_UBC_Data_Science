@@ -47,6 +47,19 @@ many topics (computation in science, bioinformatics, biology, psychology) across
 formats. I have taught two upper level undergraduate courses, two-day intensive workshops,
 shorter 1-3 hour workshops, and week-long field/summer courses. 
 
+Although I am not classically trained as a statistician, I have done a tremendous amount
+of self-guided learning in this field and act as the in-lab statistics consultant for the 
+lab where I do my postdoctoral research. I have elected to take several statistics courses, including  High-Dimensional Omics Data 
+and Pathway & Network Analysis for Omics at the Summer Institute for Statistical Genetics
+at the University of Washington, as well as Trevor Hastie and Rob Tibshirani's online 
+course titled "Introduction to Statistical Learning". I also attend and present at the 
+[Statistical Genetics Working Group](http://stat.sfu.ca/statgen.html) in the Department of 
+Statistics and Actuarial Science at SFU. Finally, my self guided learning has included reading much referring to and reading of
+["The Handbook of Biological Statistics"](http://www.biostathandbook.com/) and ["An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).
+Thus, while I am not a statistician in training, I utilize many different statistical tools
+and analyses for my work and discuss these tools and analyses with statisticians and 
+biologists on a regular basis. 
+
 Thank-you for considering me for the position of a Postdoctoral Teaching & Learning Fellow, 
 associated with a proposed Master of Data Science program at the University of 
 British Columbia. In addition to this letter, please find my [curriculum vitae](https://github.com/ttimbers/2016-03-15_UBC_Data_Science/blob/master/Timbers_UBC_CV.md), [list of 
