@@ -15,7 +15,7 @@ I am writing to apply for the position of a Postdoctoral Teaching & Learning Fel
 associated with a proposed Master of Data Science (MDS) program at the University of 
 British Columbia (UBC). This opportunity was brought to my attention by Dr. Jenny Bryan, 
 Associate Professor of Statistics and Academic Director of this proposed MDS program at 
-UCB. Currently, I am a Banting Postdoctoral Fellow at Simon Fraser University (SFU). My 
+UBC. Currently, I am a Banting Postdoctoral Fellow at Simon Fraser University (SFU). My 
 research involves complex visualization and statistical analyses of large genomic and 
 multi-dimensional phenotype datasets with the aim of uncovering new genes important for 
 sensation. Outside of the research lab I am actively involved in teaching and developing 
@@ -48,11 +48,11 @@ formats. I have taught two upper level undergraduate courses, two-day intensive 
 shorter 1-3 hour workshops, and week-long field/summer courses. 
 
 Although I am not classically trained as a statistician, I have done a tremendous amount
-of self-guided learning in this field and act as the in-lab statistics consultant for the 
-lab where I do my postdoctoral research. I have elected to take several statistics courses, including  High-Dimensional Omics Data 
-and Pathway & Network Analysis for Omics at the Summer Institute for Statistical Genetics
-at the University of Washington, as well as Trevor Hastie and Rob Tibshirani's online 
-course titled "Introduction to Statistical Learning". I also attend and present at the 
+of self-guided learning in this field and act as the in-house statistics consultant for the 
+lab where I perform my postdoctoral research. I have taken several elective statistics courses, including "High-Dimensional Omics Data"
+and "Pathway & Network Analysis for Omics" at the Summer Institute for Statistical Genetics
+at the University of Washington, as well as Trevor Hastie's and Rob Tibshirani's online 
+course titled "Introduction to Statistical Learning". I also regularly attend and present at the 
 [Statistical Genetics Working Group](http://stat.sfu.ca/statgen.html) in the Department of 
 Statistics and Actuarial Science at SFU. Finally, my self guided learning has included reading much referring to and reading of
 ["The Handbook of Biological Statistics"](http://www.biostathandbook.com/) and ["An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).
